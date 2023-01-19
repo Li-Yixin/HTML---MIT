@@ -1,6 +1,30 @@
-.stile[
-    color:red;
+.Titolo{
+    color: brown;
+    font-family: a;
+    front-size: 25pt;
+}
+
+
+
+.Testo{
+    color:rgb(51, 15, 207);
     font-family: Arial;
     front-size: 25pt;
-    ]
-</div>
+        } 
+
+
+.Esempi{
+    color:rgb(67, 168, 151);
+    font-family: Arial;
+    front-size: 25pt;
+    }
+
+
+.Centro
+        {text-align: center;}
+
+div{
+    color:rgb(196, 140, 21);
+    font-family: Arial;
+    front-size: 25pt;
+}
